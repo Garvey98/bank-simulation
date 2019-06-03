@@ -1,5 +1,3 @@
- 
-
 # Bank Simulation Backend
 
 run
