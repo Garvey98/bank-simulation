@@ -1,11 +1,9 @@
-Bank-sim-backend文件夹下是服务端实现 链接：https://github.com/felinae98/bank-sim-backend
+# Bank Simulation
 
-<<<<<<< HEAD
-bank-simulation-client文件夹下是客户端 链接：https://github.com/spencerwooo/bank-simulation-client
+> 银行模拟系统全部项目清单
 
-Bank-simulation-script文件夹下是高并发模拟脚本 链接：https://github.com/Garvey98/bank-simulation
-=======
-bank-simulation-client-master文件夹下是客户端 链接：https://github.com/spencerwooo/bank-simulation-client
-
-Bank-simulation-script文件夹下是高并发模拟脚本
->>>>>>> 02aeb415757d375bd1b9f93732f1eebb1b8d94d9
+| 项目名称               | 仓库地址                                                                                                          |
+|------------------------|-------------------------------------------------------------------------------------------------------------------|
+| bank-sim-backend       | [felinae98/bank-sim-backend](https://github.com/felinae98/bank-sim-backend)                                       |
+| bank-simulation-client | [spencerwooo/bank-simulation-client](https://github.com/spencerwooo/bank-simulation-client)                       |
+| bank-simulation-script | [Garvey98/bank-simulation-script](https://github.com/Garvey98/bank-simulation/tree/master/bank-simulation-script) |
